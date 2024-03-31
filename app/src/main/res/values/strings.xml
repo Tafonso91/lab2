@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">Notes-CM</string>
     <string name="string_save">Save</string>
-    <string name="string_back">Back</string>
+    <string name="string_back">Return</string>
     <string name="string_delete">Delete</string>
     <string name="string_portrait">Portrait View</string>
     <string name="string_landscape">Landscape View</string>
-    <string name="string_add_note">Add Note</string>
-    <string name="string_update_note">Update Note</string>
-    <string name="string_select_date">Select Date</string>
-    <string name="string_add_note_sucess">Note has been created successfully</string>
-    <string name="string_add_note_error">An error occurred creating the note</string>
-    <string name="string_update_note_sucess">Note has been updated successfully</string>
-    <string name="string_update_note_error">An error occurred updating the note</string>
-    <string name="string_delete_note">Note has been deleted successfully</string>
+    <string name="string_add_note">Add note title</string>
+    <string name="string_update_note">Update note</string>
+    <string name="string_select_date">Select date</string>
+    <string name="string_add_note_sucess">Note created </string>
+    <string name="string_add_note_error">An error occurred </string>
+    <string name="string_update_note_sucess">Note updated </string>
+    <string name="string_update_note_error">An error occurred updating </string>
+    <string name="string_delete_note">Note deleted </string>
     <string name="string_yes">Yes</string>
     <string name="string_no">No</string>
-    <string name="string_confirmation">Are you sure you want to continue?</string>
+    <string name="string_confirmation">You want to continue?</string>
 </resources>
