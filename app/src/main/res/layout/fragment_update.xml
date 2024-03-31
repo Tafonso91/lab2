@@ -11,47 +11,54 @@
         android:id="@+id/ll_main_layout_update_note"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#8DDC98"
         android:gravity="left"
         android:orientation="vertical"
-        android:padding="25dp">
+        android:padding="25dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="5dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/string_portrait"
-            android:textSize="30dp"
+            android:layout_gravity="center"
             android:layout_marginBottom="25dp"
-            android:layout_gravity="center"/>
+            android:text="@string/string_portrait"
+            android:textSize="30dp" />
 
         <EditText
             android:id="@+id/updateNote"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/string_update_note"/>
+            android:hint="@string/string_update_note" />
 
         <Button
             android:id="@+id/updateDate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:backgroundTint="#000000"
             android:text="@string/string_select_date" />
 
         <Button
             android:id="@+id/update"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
             android:text="@string/string_save" />
 
         <Button
             android:id="@+id/delete"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
             android:text="@string/string_delete" />
 
         <Button
             android:id="@+id/backToListFromUpdate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
             android:text="@string/string_back" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

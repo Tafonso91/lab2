@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Notes-CM</string>
-    <string name="string_save">Save</string>
+    <string name="string_save">Save </string>
     <string name="string_back">Return</string>
-    <string name="string_delete">Delete</string>
-    <string name="string_portrait">Portrait View</string>
-    <string name="string_landscape">Landscape View</string>
+    <string name="string_delete">Delete </string>
+    <string name="string_portrait">Portrait </string>
+    <string name="string_landscape">Landscape </string>
     <string name="string_add_note">Add note title</string>
     <string name="string_update_note">Update note</string>
     <string name="string_select_date">Select date</string>
